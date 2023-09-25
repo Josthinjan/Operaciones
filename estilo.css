@@ -1,0 +1,13 @@
+body {
+    background-color: antiquewhite;
+}
+
+.contenedor {
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 60vh;
+    background-color: aqua;
+    width: 40%;
+    height: 80vh;
+    border-radius: 5vh;
+}
